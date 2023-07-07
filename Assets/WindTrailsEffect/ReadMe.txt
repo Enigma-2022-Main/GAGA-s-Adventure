@@ -1,0 +1,5 @@
+- To adjust trails spawning space - modify particle system's "Shape" parameters
+- To adjust trails length - modify particle system's "Start Lifetime" parameter or "Start Speed" parameter 
+- To adjust trails width - modify particle system's "Start Size" parameter
+- To adjust trails waving - modify particle system's "Noise" parameters
+- To adjust trails direction - modify "WindTrailsParticles" gameobject's rotation
